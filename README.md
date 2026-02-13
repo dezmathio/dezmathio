@@ -6,10 +6,12 @@ I build scalable, production-grade systems that blend practicality with creativi
 ---
 
 ###  Current Projects
--  **[err.day](https://err.day)** – Rails 8 app for tracking nutrition, habits, and sleep cycles with macro goals and gamified feedback loops.  
--  **[YTC](https://chromewebstore.google.com/detail/ytc-copy-youtube-transcri/bodkfiaicfaoblnefjfmkdcbaijfeike)** – Chrome extension + Rails backend for summarizing YouTube transcripts using LLM APIs, with Stripe-based paid tiers.  
--  **[Delta Force Map Tracker](https://github.com/dezmathio/deltaforce-maps)** – static site that displays dynamic rotation schedules in real time (accounting for dst).
--  **[chewsr](https://chewsr.com/)** -- fun little project done in an evening integrating yelp places to pick a place to eat near you. 
+-  **[chewsr](https://chewsr.com/)** -- Rails 8 / Hotwire ~ group session tinder-style restaurant picker
+-  **[Conan ~ Age of The Terminal](https://github.com/dezmathio/age_of_the_terminal)** Fan-made terminal based game about Conan, meant as a learning project for TypeScript.
+-  **[err.day](https://err.day)** – Rails 8 ~ app for tracking nutrition, habits, and sleep cycles with macro goals and gamified feedback loops.  
+-  **[YTC](https://chromewebstore.google.com/detail/ytc-copy-youtube-transcri/bodkfiaicfaoblnefjfmkdcbaijfeike)** – Chrome extension + Rails 8 backend for summarizing YouTube transcripts using LLM APIs, with Stripe-based paid tiers.  
+-  **[Delta Force Map Tracker](https://github.com/dezmathio/delta-force-map-tracker)** – static site that displays dynamic rotation schedules in real time (accounting for dst).
+
 -  **Internal Utilities** – Redis workers, background job orchestration, Fly.io deployment automation, Rails-native agent integration experiments, daily commute scripts, etc.
 
 ---

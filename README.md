@@ -7,6 +7,7 @@ I build scalable, production-grade systems that blend practicality with creativi
 
 ###  Current Projects
 -  **[chewsr](https://chewsr.com/)** -- Rails 8 / Hotwire ~ group session tinder-style restaurant picker
+-  **[Conan Exiles x GeoGuessr](https://dezmathio.github.io/conan_exiles_geoguessr/)** Fan-made geoguessr clone for Conan Exiles, also in TS.
 -  **[Conan ~ Age of The Terminal](https://github.com/dezmathio/age_of_the_terminal)** Fan-made terminal based game about Conan, meant as a learning project for TypeScript.
 -  **[err.day](https://err.day)** – Rails 8 ~ app for tracking nutrition, habits, and sleep cycles with macro goals and gamified feedback loops.  
 -  **[YTC](https://chromewebstore.google.com/detail/ytc-copy-youtube-transcri/bodkfiaicfaoblnefjfmkdcbaijfeike)** – Chrome extension + Rails 8 backend for summarizing YouTube transcripts using LLM APIs, with Stripe-based paid tiers. (backend deprecated, low usage)  
